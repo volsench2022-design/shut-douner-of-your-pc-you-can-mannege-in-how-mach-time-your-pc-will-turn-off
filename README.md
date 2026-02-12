@@ -1,0 +1,1 @@
+# shut-douner-of-your-pc-you-can-mannege-in-how-mach-time-your-pc-will-turn-off
