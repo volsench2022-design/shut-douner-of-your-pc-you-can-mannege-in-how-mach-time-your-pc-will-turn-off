@@ -1,5 +1,6 @@
 🖥️ Shutdown / Restart Scheduler (Python Tkinter)
 
+<img width="512" height="474" alt="Screenshot 2026-02-12 161730" src="https://github.com/user-attachments/assets/cdc32039-3fba-466d-a922-3ffa29ed6d97" />
 A simple and user-friendly desktop application built with Python and Tkinter that allows users to schedule a system shutdown or restart with a countdown timer.
 
 This tool provides a clean GUI interface to control Windows shutdown commands safely and conveniently.
